@@ -38,5 +38,3 @@ This project is suitable for:
 - 🧩 Modular code design
 
 ---
-
-## 📂 Project Structure
